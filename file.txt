@@ -1,1 +1,4 @@
 Another line in main
+Some feature content
+
+test reset
