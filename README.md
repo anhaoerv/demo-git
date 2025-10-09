@@ -10,5 +10,4 @@ Hello Goku. I am Bulma. I like to collect dragon balls.
 
 Test commit amend (already edit). It's OK now!
 
-Long add new feature.
-Feature of Hao
+Main add new feature
