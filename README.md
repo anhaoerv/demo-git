@@ -8,4 +8,4 @@ Hello Goku. I am Bulma. I like to collect dragon balls
 
 Hello Goku. I am Bulma. I like to collect dragon balls.
 
-Test commit amend (error) => I just edit this commit. All is OK now!
+Test commit amend (already edit). It's OK now!
