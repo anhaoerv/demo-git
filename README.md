@@ -12,3 +12,4 @@ Test commit amend (already edit). It's OK now!
 
 Main add new feature
 Long add new feature.
+Hao add new feature.
