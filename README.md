@@ -8,3 +8,4 @@ made a new feature
 made feature B
 
 feature add something
+main add feature
